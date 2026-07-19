@@ -1,2 +1,4 @@
-## Frontend Preferences
 ## Backend Preferences
+Node.js
+Python
+PostgreSQL
