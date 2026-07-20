@@ -4,3 +4,4 @@ Hi, I'm Amrut Bagora, an Electronics and Telecommunication Engineering student p
 ## Progress Tracker
 Started journal work - 20 July 2026 12:31 AM
 Practiced soft reset 20-07-2026
+## Added peer review - 20 July 2026 11:00AM
