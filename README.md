@@ -13,3 +13,5 @@ Practiced soft reset 20-07-2026
 ## Added self review 20 July 2026 11:08 AM
 
 ## Added rebase-second entry - 23 July 2026 
+
+Cherry-picked useful notes - 2026-07-25 17:38 IST
