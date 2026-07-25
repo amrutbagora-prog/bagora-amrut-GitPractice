@@ -8,4 +8,7 @@
 * It helps avoid merging unwanted experimental changes.
 * Always check the commit hash using `git log`.
 
-
+## Random Ideas
+* What if we automate this with a script?
+* Could try using a different framework.
+* Maybe refactor the main loop next week.
