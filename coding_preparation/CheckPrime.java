@@ -2,14 +2,14 @@
 
 public class CheckPrime {
 
-    // Unoptimized O(N) prime-checking method
+    // Optimized prime-checking method using square-root logic
     public static boolean isPrime(int n) {
         if (n <= 1) {
             return false;
         }
         
-        // Loop all the way up to n-1
-        for (int i = 2; i < n; i++) {
+        // Loop only up to the square root of n
+        for (int i = 2; i <= Math.sqrt(n); i++) {
             if (n % i == 0) {
                 return false;
             }
